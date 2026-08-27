@@ -1,0 +1,17 @@
+pdfplumber
+openai-whisper
+neo4j
+sentence-transformers
+ollama
+flask
+pandas
+numpy
+python-dotenv
+langchain-text-splitters
+rouge-score
+bert-score
+nltk
+tqdm
+groq
+rank_bm25
+openpyxl
