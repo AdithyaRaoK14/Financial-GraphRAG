@@ -1,0 +1,2268 @@
+[
+  {
+    "id": "Credit_Access_Grameen_2025_Q1_risk_guidance",
+    "company": "CreditAccess Grameen Limited",
+    "company_key": "Credit Access Grameen",
+    "year": "2025",
+    "quarter": "Q1",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q1 FY25",
+    "category": "risk_guidance",
+    "subtype": "risk",
+    "modality": "audio",
+    "question": "What risks did management mention regarding demand or the operating environment in Q1 FY25?",
+    "answer": "Management flagged a gradual rise in business-assurance delinquencies over the prior three quarters, driven by customer migration, rising customer leverage, third-party loan utilization issues and elevated delinquencies outside Karnataka, prompting a higher FY25 credit-cost budget.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "CreditAccess-Grameen_Earnings-Call-Audio_Q1-FY-2024-25.json",
+        "start_seconds": 350.5,
+        "end_seconds": 511.9
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "ba9070bbaa211710"
+    ],
+    "supporting_documents": [
+      "CreditAccess-Grameen_Earnings-Call-Audio_Q1-FY-2024-25.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 350.5,
+        "end": 511.9
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Credit_Access_Grameen_2025_Q1_risk_guidance"
+  },
+  {
+    "id": "Credit_Access_Grameen_2026_Q2_multimodal",
+    "company": "CreditAccess Grameen Limited",
+    "company_key": "Credit Access Grameen",
+    "year": "2026",
+    "quarter": "Q2",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q2 FY26",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Why did CreditAccess Grameen Limited's revenue increase quarter-on-quarter in Q2 FY26?",
+    "answer": "prior period: ₹1,462.89 crore; Q2 FY26: ₹1,508.35 crore. Management attributed the increase to favorable rural demand conditions (healthy monsoons, strong agricultural output).",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 1508.35,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 1462.89
+      },
+      {
+        "period": "Q2 FY26",
+        "value": 1508.35
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "CreditAccess-Grameen_Statement-of-Unaudited-Standalone-and-Consolidated-Results_Quarter-Ended_30-September_2025.json",
+        "page": 2
+      },
+      {
+        "modality": "audio",
+        "document": "CreditAccess-Grameen-Earnings-Call-Audio_Q2-FY-2025-26.json",
+        "start_seconds": 138.4,
+        "end_seconds": 297.0
+      }
+    ],
+    "supporting_pages": [
+      2
+    ],
+    "supporting_chunk_ids": [
+      "4ea6844c9793ec58",
+      "abdf6487b9d70010"
+    ],
+    "supporting_documents": [
+      "CreditAccess-Grameen_Statement-of-Unaudited-Standalone-and-Consolidated-Results_Quarter-Ended_30-September_2025.json",
+      "CreditAccess-Grameen-Earnings-Call-Audio_Q2-FY-2025-26.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 138.4,
+        "end": 297.0
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Credit_Access_Grameen_2026_Q2_multimodal"
+  },
+  {
+    "id": "Credit_Access_Grameen_2024_Q4_multimodal",
+    "company": "CreditAccess Grameen Limited",
+    "company_key": "Credit Access Grameen",
+    "year": "2024",
+    "quarter": "Q4",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q4 FY24",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Why did CreditAccess Grameen Limited's revenue increase quarter-on-quarter in Q4 FY24?",
+    "answer": "prior period: ₹1,292.20 crore; Q4 FY24: ₹1,457.49 crore. Management attributed this to PAT growth of",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 1457.49,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 1292.2
+      },
+      {
+        "period": "Q4 FY24",
+        "value": 1457.49
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "CreditAccess-Grameen_Statement-of-Unaudited-Standalone-and-Consolidated-Results_Quarter-Ended_31-March_2024.json",
+        "page": 14
+      },
+      {
+        "modality": "audio",
+        "document": "CreditAccess-Grameen_Earnings-Call-Audio_Q4-FY2023-24.json",
+        "start_seconds": 1179.8,
+        "end_seconds": 1347.0
+      }
+    ],
+    "supporting_pages": [
+      14
+    ],
+    "supporting_chunk_ids": [
+      "4aa49c9d14c06542",
+      "c49c83ebeced811f"
+    ],
+    "supporting_documents": [
+      "CreditAccess-Grameen_Statement-of-Unaudited-Standalone-and-Consolidated-Results_Quarter-Ended_31-March_2024.json",
+      "CreditAccess-Grameen_Earnings-Call-Audio_Q4-FY2023-24.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 1179.8,
+        "end": 1347.0
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Credit_Access_Grameen_2024_Q4_multimodal"
+  },
+  {
+    "id": "InfoEdge_2025_Q3_risk_guidance",
+    "company": "Info Edge (India) Limited",
+    "company_key": "InfoEdge",
+    "year": "2025",
+    "quarter": "Q3",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q3 FY25",
+    "category": "risk_guidance",
+    "subtype": "risk",
+    "modality": "audio",
+    "question": "What operational challenges did Info Edge's management highlight in Q3 FY25?",
+    "answer": "Management noted that adjacent recruitment verticals (IAM Jobs, HiRist, Fast Forward, Naukri Gulf, etc.), together about 20% of recruitment collections, have been growing faster than the core Naukri business, which was slow for several quarters.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "InfoEdge-Earnings-05feb25.json",
+        "start_seconds": 3594.7,
+        "end_seconds": 3792.9
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "b5c0d01f8d5dc88d"
+    ],
+    "supporting_documents": [
+      "InfoEdge-Earnings-05feb25.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 3594.7,
+        "end": 3792.9
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "InfoEdge_2025_Q3_risk_guidance"
+  },
+  {
+    "id": "lookup_InfoEdge_2026_Q4_2",
+    "company": "Info Edge (India) Limited",
+    "company_key": "InfoEdge",
+    "year": "2026",
+    "quarter": "Q4",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q4 FY26",
+    "category": "financial_metric",
+    "subtype": "single_value_lookup",
+    "modality": "pdf",
+    "question": "What was Info Edge (India) Limited's revenue from operations in Q4 FY26 on a consolidated basis?",
+    "answer": "₹8,690.05 crore in Q4 FY26.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 8690.05,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "audited-Financial-Results-Q4-26.json",
+        "page": 16
+      }
+    ],
+    "supporting_pages": [
+      16
+    ],
+    "supporting_chunk_ids": [
+      "2749e9440754f6ba"
+    ],
+    "supporting_documents": [
+      "audited-Financial-Results-Q4-26.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "InfoEdge_2026_Q4_financial_metric"
+  },
+  {
+    "id": "lookup_InfoEdge_2025_Q2_3",
+    "company": "Info Edge (India) Limited",
+    "company_key": "InfoEdge",
+    "year": "2025",
+    "quarter": "Q2",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q2 FY25",
+    "category": "financial_metric",
+    "subtype": "single_value_lookup",
+    "modality": "pdf",
+    "question": "What was Info Edge (India) Limited's revenue from operations in Q2 FY25 on a consolidated basis?",
+    "answer": "₹7,008.24 crore in Q2 FY25.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 7008.24,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Unaudited-Financial-Results-Q2-24.json",
+        "page": 11
+      }
+    ],
+    "supporting_pages": [
+      11
+    ],
+    "supporting_chunk_ids": [
+      "886decb0894e4a08"
+    ],
+    "supporting_documents": [
+      "Unaudited-Financial-Results-Q2-24.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "InfoEdge_2025_Q2_financial_metric"
+  },
+  {
+    "id": "InfoEdge_2026_Q1_temporal_figures",
+    "company": "Info Edge (India) Limited",
+    "company_key": "InfoEdge",
+    "year": "2026",
+    "quarter": "Q1",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q1 FY26",
+    "category": "temporal",
+    "subtype": "two_period_figures",
+    "modality": "pdf",
+    "question": "What was Info Edge (India) Limited's revenue from operations in Q1 FY26 and in Q4 FY25?",
+    "answer": "Q1 FY26: ₹7,908.62 crore; Q4 FY25: ₹7,496.25 crore.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 7908.62,
+    "period_values": [
+      {
+        "period": "Q1 FY26",
+        "value": 7908.62
+      },
+      {
+        "period": "Q4 FY25",
+        "value": 7496.25
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "financial-results-08aug25.json",
+        "page": 11
+      }
+    ],
+    "supporting_pages": [
+      11
+    ],
+    "supporting_chunk_ids": [
+      "efc6b2d92c717fd6"
+    ],
+    "supporting_documents": [
+      "financial-results-08aug25.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "InfoEdge_2026_Q1_temporal"
+  },
+  {
+    "id": "InfoEdge_2025_Q4_temporal_figures",
+    "company": "Info Edge (India) Limited",
+    "company_key": "InfoEdge",
+    "year": "2025",
+    "quarter": "Q4",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q4 FY25",
+    "category": "temporal",
+    "subtype": "two_period_figures",
+    "modality": "pdf",
+    "question": "What was Info Edge (India) Limited's revenue from operations in Q4 FY25 and in Q4 FY24?",
+    "answer": "Q4 FY25: ₹7,496.25 crore; Q4 FY24: ₹6,574.22 crore.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 7496.25,
+    "period_values": [
+      {
+        "period": "Q4 FY25",
+        "value": 7496.25
+      },
+      {
+        "period": "Q4 FY24",
+        "value": 6574.22
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "audited-Financial-Results-Q4-FY25.json",
+        "page": 16
+      }
+    ],
+    "supporting_pages": [
+      16
+    ],
+    "supporting_chunk_ids": [
+      "a4f8476a18297fc8"
+    ],
+    "supporting_documents": [
+      "audited-Financial-Results-Q4-FY25.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "InfoEdge_2025_Q4_temporal"
+  },
+  {
+    "id": "InfoEdge_2025_Q1_multimodal",
+    "company": "Info Edge (India) Limited",
+    "company_key": "InfoEdge",
+    "year": "2025",
+    "quarter": "Q1",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q1 FY25",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Why did Info Edge (India) Limited's revenue increase quarter-on-quarter in Q1 FY25?",
+    "answer": "prior period: ₹6,574.22 crore; Q1 FY25: ₹6,767.06 crore. Management attributed this to recruitment segment strength, with Q FY recruitment billings up YoY to.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 6767.06,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 6574.22
+      },
+      {
+        "period": "Q1 FY25",
+        "value": 6767.06
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "financial-results-09aug24.json",
+        "page": 9
+      },
+      {
+        "modality": "audio",
+        "document": "InfoEdge-Earnings-09aug24.json",
+        "start_seconds": 152.5,
+        "end_seconds": 305.2
+      }
+    ],
+    "supporting_pages": [
+      9
+    ],
+    "supporting_chunk_ids": [
+      "d61da01d4b92c83b",
+      "9ad4b40287e0707c"
+    ],
+    "supporting_documents": [
+      "financial-results-09aug24.json",
+      "InfoEdge-Earnings-09aug24.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 152.5,
+        "end": 305.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "InfoEdge_2025_Q1_multimodal"
+  },
+  {
+    "id": "InfoEdge_2026_Q4_multimodal",
+    "company": "Info Edge (India) Limited",
+    "company_key": "InfoEdge",
+    "year": "2026",
+    "quarter": "Q4",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q4 FY26",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Why did Info Edge (India) Limited's revenue increase quarter-on-quarter in Q4 FY26?",
+    "answer": "prior period: ₹8,194.14 crore; Q4 FY26: ₹8,690.05 crore. Management noted a business segment's growth accelerated from its historical - annual pace to roughly following recent changes, cautioning it's only been one quarter and sustainability is still to be confirmed.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 8690.05,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 8194.14
+      },
+      {
+        "period": "Q4 FY26",
+        "value": 8690.05
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "audited-Financial-Results-Q4-26.json",
+        "page": 16
+      },
+      {
+        "modality": "audio",
+        "document": "InfoEdge-Earnings-22May26.json",
+        "start_seconds": 3161.0,
+        "end_seconds": 3308.7
+      }
+    ],
+    "supporting_pages": [
+      16
+    ],
+    "supporting_chunk_ids": [
+      "2749e9440754f6ba",
+      "cd24e9f492f29799"
+    ],
+    "supporting_documents": [
+      "audited-Financial-Results-Q4-26.json",
+      "InfoEdge-Earnings-22May26.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 3161.0,
+        "end": 3308.7
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "InfoEdge_2026_Q4_multimodal"
+  },
+  {
+    "id": "Jindal_Stainless_Limited_2025_Q2_risk_guidance",
+    "company": "Jindal Stainless Limited",
+    "company_key": "Jindal Stainless Limited",
+    "year": "2025",
+    "quarter": "Q2",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q2 FY25",
+    "category": "risk_guidance",
+    "subtype": "guidance",
+    "modality": "audio",
+    "question": "What forward-looking commentary did Jindal Stainless's management give in Q2 FY25?",
+    "answer": "The retrieved segment is an analyst follow-up noting that, with revised volume guidance, the new Jajpur expansion is now expected to take about three years to reach full utilization instead of the previously guided two years.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "ICP0320241018155810.json",
+        "start_seconds": 1243.1,
+        "end_seconds": 1386.2
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "7072dc1f52b438cb"
+    ],
+    "supporting_documents": [
+      "ICP0320241018155810.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 1243.1,
+        "end": 1386.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Jindal_Stainless_Limited_2025_Q2_risk_guidance"
+  },
+  {
+    "id": "Jindal_Stainless_Limited_2026_Q3_risk_guidance",
+    "company": "Jindal Stainless Limited",
+    "company_key": "Jindal Stainless Limited",
+    "year": "2026",
+    "quarter": "Q3",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q3 FY26",
+    "category": "risk_guidance",
+    "subtype": "risk",
+    "modality": "audio",
+    "question": "What concerns were raised during the Q3 FY26 earnings call?",
+    "answer": "Management flagged that unpredictable US trade-policy announcements and rule changes were creating customer uncertainty and delaying order placement, while reassuring that the company continues to reliably serve its long-standing customers.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "10039399.json",
+        "start_seconds": 970.9,
+        "end_seconds": 1131.3
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "3bcd090b0b6e705d"
+    ],
+    "supporting_documents": [
+      "10039399.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 970.9,
+        "end": 1131.3
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Jindal_Stainless_Limited_2026_Q3_risk_guidance"
+  },
+  {
+    "id": "Jindal_Stainless_Limited_cq_best_q4_across_years",
+    "company": "Jindal Stainless Limited",
+    "company_key": "Jindal Stainless Limited",
+    "year": "2024-2026",
+    "quarter": "Q4",
+    "fiscal_year": null,
+    "fiscal_period": "Q4, FY24-FY26",
+    "category": "cross_quarter_reasoning",
+    "subtype": null,
+    "modality": "pdf",
+    "question": "Across FY24-FY26, which Q4 recorded the highest revenue for Jindal Stainless Limited?",
+    "answer": "Q4 FY26 recorded the highest revenue among the three, at ₹10,826.47 crore. (Q4 FY24: ₹9,520.74 crore, Q4 FY25: ₹10,785.53 crore, Q4 FY26: ₹10,826.47 crore)",
+    "metric": "Revenue from operations",
+    "statement_type": "standalone",
+    "unit": "₹ crore",
+    "value": null,
+    "period_values": [
+      {
+        "period": "Q4 FY24",
+        "value": 9520.74
+      },
+      {
+        "period": "Q4 FY25",
+        "value": 10785.53
+      },
+      {
+        "period": "Q4 FY26",
+        "value": 10826.47
+      }
+    ],
+    "expected_answer": "Q4 FY26",
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "JSLBMOutcome15May-1.json",
+        "page": 3
+      },
+      {
+        "modality": "pdf",
+        "document": "FinancialsMarch31.json",
+        "page": 11
+      },
+      {
+        "modality": "pdf",
+        "document": "Financials-1.json",
+        "page": 4
+      }
+    ],
+    "supporting_pages": [
+      3,
+      4,
+      11
+    ],
+    "supporting_chunk_ids": [
+      "f4a2bb6e37e621a3",
+      "f2ade13016f5dfa3",
+      "95c279d21309ea2c"
+    ],
+    "supporting_documents": [
+      "JSLBMOutcome15May-1.pdf",
+      "FinancialsMarch31.pdf",
+      "Financials-1.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": true,
+    "ground_truth_issue_note": "Jindal Stainless's consolidated quarterly P&L is not reliably/consistently extractable from the processed filings; the standalone-section table is used throughout this company's series instead, for internal consistency of comparisons. This is an explicit, deliberate deviation from this dataset's general consolidated-figures convention.",
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Jindal_Stainless_Limited_cq_best_q4_across_years"
+  },
+  {
+    "id": "Jindal_Stainless_Limited_2025_cq_highest_revenue",
+    "company": "Jindal Stainless Limited",
+    "company_key": "Jindal Stainless Limited",
+    "year": "2025",
+    "quarter": "FY-full",
+    "fiscal_year": "FY25",
+    "fiscal_period": "FY25",
+    "category": "cross_quarter_reasoning",
+    "subtype": null,
+    "modality": "pdf",
+    "question": "Which quarter had the highest revenue for Jindal Stainless Limited in FY25?",
+    "answer": "Q4 FY25 had the highest revenue, at ₹10,785.53 crore. Full-year quarterly revenue: Q1: ₹9,584.90 crore, Q2: ₹9,745.65 crore, Q3: ₹10,065.60 crore, Q4: ₹10,785.53 crore.",
+    "metric": "Revenue from operations",
+    "statement_type": "standalone",
+    "unit": "₹ crore",
+    "value": null,
+    "period_values": [
+      {
+        "period": "Q1 FY25",
+        "value": 9584.9
+      },
+      {
+        "period": "Q2 FY25",
+        "value": 9745.65
+      },
+      {
+        "period": "Q3 FY25",
+        "value": 10065.6
+      },
+      {
+        "period": "Q4 FY25",
+        "value": 10785.53
+      }
+    ],
+    "expected_answer": "Q4 FY25",
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "BMOutcome30072024.json",
+        "page": 5
+      },
+      {
+        "modality": "pdf",
+        "document": "JSLBMOutcome17Oct2024-1.json",
+        "page": 4
+      },
+      {
+        "modality": "pdf",
+        "document": "Dec24-UFR.json",
+        "page": 3
+      },
+      {
+        "modality": "pdf",
+        "document": "FinancialsMarch31.json",
+        "page": 11
+      }
+    ],
+    "supporting_pages": [
+      3,
+      4,
+      5,
+      11
+    ],
+    "supporting_chunk_ids": [
+      "13b2e7822ddc74be",
+      "d3002a60e1c7164b",
+      "e095a61d4ac6625a",
+      "f2ade13016f5dfa3"
+    ],
+    "supporting_documents": [
+      "BMOutcome30072024.pdf",
+      "JSLBMOutcome17Oct2024-1.pdf",
+      "Dec24-UFR.pdf",
+      "FinancialsMarch31.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": true,
+    "ground_truth_issue_note": "Jindal Stainless's consolidated quarterly P&L is not reliably/consistently extractable from the processed filings; the standalone-section table is used throughout this company's series instead, for internal consistency of comparisons. This is an explicit, deliberate deviation from this dataset's general consolidated-figures convention.",
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Jindal_Stainless_Limited_2025_cq_highest_revenue"
+  },
+  {
+    "id": "lookup_JindalStainlessLimited_2025_Q3_7",
+    "company": "Jindal Stainless Limited",
+    "company_key": "Jindal Stainless Limited",
+    "year": "2025",
+    "quarter": "Q3",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q3 FY25",
+    "category": "financial_metric",
+    "subtype": "single_value_lookup",
+    "modality": "pdf",
+    "question": "What was Jindal Stainless Limited's revenue from operations in Q3 FY25 on a standalone basis?",
+    "answer": "₹10,065.60 crore in Q3 FY25.",
+    "metric": "Revenue from operations",
+    "statement_type": "standalone",
+    "unit": "₹ crore",
+    "value": 10065.6,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Dec24-UFR.json",
+        "page": 3
+      }
+    ],
+    "supporting_pages": [
+      3
+    ],
+    "supporting_chunk_ids": [
+      "e095a61d4ac6625a"
+    ],
+    "supporting_documents": [
+      "Dec24-UFR.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": true,
+    "ground_truth_issue_note": "Jindal Stainless's consolidated quarterly P&L is not reliably/consistently extractable from the processed filings; the standalone-section table is used throughout this company's series instead, for internal consistency of comparisons. This is an explicit, deliberate deviation from this dataset's general consolidated-figures convention.",
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Jindal_Stainless_Limited_2025_Q3_financial_metric"
+  },
+  {
+    "id": "Jindal_Stainless_Limited_2026_Q2_temporal_figures",
+    "company": "Jindal Stainless Limited",
+    "company_key": "Jindal Stainless Limited",
+    "year": "2026",
+    "quarter": "Q2",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q2 FY26",
+    "category": "temporal",
+    "subtype": "two_period_figures",
+    "modality": "pdf",
+    "question": "What was Jindal Stainless Limited's revenue from operations in Q2 FY26 and in Q2 FY25?",
+    "answer": "Q2 FY26: ₹10,880.89 crore; Q2 FY25: ₹9,745.65 crore.",
+    "metric": "Revenue from operations",
+    "statement_type": "standalone",
+    "unit": "₹ crore",
+    "value": 10880.89,
+    "period_values": [
+      {
+        "period": "Q2 FY26",
+        "value": 10880.89
+      },
+      {
+        "period": "Q2 FY25",
+        "value": 9745.65
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Financials.json",
+        "page": 3
+      }
+    ],
+    "supporting_pages": [
+      3
+    ],
+    "supporting_chunk_ids": [
+      "62da32eb7ec29037"
+    ],
+    "supporting_documents": [
+      "Financials.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": true,
+    "ground_truth_issue_note": "Jindal Stainless's consolidated quarterly P&L is not reliably/consistently extractable from the processed filings; the standalone-section table is used throughout this company's series instead, for internal consistency of comparisons. This is an explicit, deliberate deviation from this dataset's general consolidated-figures convention.",
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Jindal_Stainless_Limited_2026_Q2_temporal"
+  },
+  {
+    "id": "Jindal_Stainless_Limited_2024_Q3_multimodal",
+    "company": "Jindal Stainless Limited",
+    "company_key": "Jindal Stainless Limited",
+    "year": "2024",
+    "quarter": "Q3",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q3 FY24",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Why did Jindal Stainless Limited's revenue decrease quarter-on-quarter in Q3 FY24?",
+    "answer": "prior period: ₹10,027.34 crore; Q3 FY24: ₹9,720.35 crore. Management attributed the dip in sales volume to planned plant maintenance aimed at upgrading output for an enhanced product mix and a faster future ramp-up.",
+    "metric": "Revenue from operations",
+    "statement_type": "standalone",
+    "unit": "₹ crore",
+    "value": 9720.35,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 10027.34
+      },
+      {
+        "period": "Q3 FY24",
+        "value": 9720.35
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Outcome191023.json",
+        "page": 4
+      },
+      {
+        "modality": "audio",
+        "document": "BAT0220240119150826.json",
+        "start_seconds": 288.4,
+        "end_seconds": 477.8
+      }
+    ],
+    "supporting_pages": [
+      4
+    ],
+    "supporting_chunk_ids": [
+      "4a2ab771c0b0903e",
+      "f4e9657b4940865c"
+    ],
+    "supporting_documents": [
+      "Outcome191023.json",
+      "BAT0220240119150826.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 288.4,
+        "end": 477.8
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": true,
+    "ground_truth_issue_note": "Jindal Stainless's consolidated quarterly P&L is not reliably/consistently extractable from the processed filings; the standalone-section table is used throughout this company's series instead, for internal consistency of comparisons. This is an explicit, deliberate deviation from this dataset's general consolidated-figures convention.",
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Jindal_Stainless_Limited_2024_Q3_multimodal"
+  },
+  {
+    "id": "Jindal_Stainless_Limited_2025_Q2_multimodal",
+    "company": "Jindal Stainless Limited",
+    "company_key": "Jindal Stainless Limited",
+    "year": "2025",
+    "quarter": "Q2",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q2 FY25",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "What export-market resilience did Jindal Stainless Limited report alongside its Q2 FY25 revenue increase?",
+    "answer": "prior period: ₹9,584.90 crore; Q2 FY25: ₹9,745.65 crore. Management noted that despite disruption in ocean freight and weaker economic activity in the EU, the company maintained its export volumes quarter-on-quarter, while also reducing consolidated debt by more than through working-capital optimization.",
+    "metric": "Revenue from operations",
+    "statement_type": "standalone",
+    "unit": "₹ crore",
+    "value": 9745.65,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 9584.9
+      },
+      {
+        "period": "Q2 FY25",
+        "value": 9745.65
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "JSLBMOutcome17Oct2024-1.json",
+        "page": 4
+      },
+      {
+        "modality": "audio",
+        "document": "ICP0320241018155810.json",
+        "start_seconds": 292.9,
+        "end_seconds": 463.2
+      }
+    ],
+    "supporting_pages": [
+      4
+    ],
+    "supporting_chunk_ids": [
+      "d3002a60e1c7164b",
+      "908c9c5e327c3f9a"
+    ],
+    "supporting_documents": [
+      "JSLBMOutcome17Oct2024-1.json",
+      "ICP0320241018155810.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 292.9,
+        "end": 463.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": true,
+    "ground_truth_issue_note": "Jindal Stainless's consolidated quarterly P&L is not reliably/consistently extractable from the processed filings; the standalone-section table is used throughout this company's series instead, for internal consistency of comparisons. This is an explicit, deliberate deviation from this dataset's general consolidated-figures convention.",
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Jindal_Stainless_Limited_2025_Q2_multimodal"
+  },
+  {
+    "id": "NYKAA_2024_Q1_risk_guidance",
+    "company": "Nykaa (FSN E-Commerce Ventures Limited)",
+    "company_key": "NYKAA",
+    "year": "2024",
+    "quarter": "Q1",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q1 FY24",
+    "category": "risk_guidance",
+    "subtype": "risk",
+    "modality": "audio",
+    "question": "What challenges did Nykaa's management discuss during the Q1 FY24 earnings call?",
+    "answer": "Management noted that fashion-business growth in FY24 did not fully match the pace expected earlier in the year relative to FY23.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "Audio-Recording-Q1FY24-Earnings-Call.json",
+        "start_seconds": 3189.0,
+        "end_seconds": 3399.4
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "699f19b31ee0d9f7"
+    ],
+    "supporting_documents": [
+      "Audio-Recording-Q1FY24-Earnings-Call.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 3189.0,
+        "end": 3399.4
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "NYKAA_2024_Q1_risk_guidance"
+  },
+  {
+    "id": "lookup_NYKAA_2025_Q4_1",
+    "company": "Nykaa (FSN E-Commerce Ventures Limited)",
+    "company_key": "NYKAA",
+    "year": "2025",
+    "quarter": "Q4",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q4 FY25",
+    "category": "financial_metric",
+    "subtype": "single_value_lookup",
+    "modality": "pdf",
+    "question": "What was Nykaa (FSN E-Commerce Ventures Limited)'s net profit for the period in Q4 FY25 on a consolidated basis?",
+    "answer": "₹19.05 crore in Q4 FY25.",
+    "metric": "Net profit for the period",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 19.05,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Outcome-of-Board-Meeting-on-Financial-Results-Q4-and-FY25.json",
+        "page": 13
+      }
+    ],
+    "supporting_pages": [
+      13
+    ],
+    "supporting_chunk_ids": [
+      "50df269f296a6770"
+    ],
+    "supporting_documents": [
+      "Outcome-of-Board-Meeting-on-Financial-Results-Q4-and-FY25.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "NYKAA_2025_Q4_financial_metric"
+  },
+  {
+    "id": "NYKAA_2026_Q3_temporal_figures",
+    "company": "Nykaa (FSN E-Commerce Ventures Limited)",
+    "company_key": "NYKAA",
+    "year": "2026",
+    "quarter": "Q3",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q3 FY26",
+    "category": "temporal",
+    "subtype": "two_period_figures",
+    "modality": "pdf",
+    "question": "What was Nykaa (FSN E-Commerce Ventures Limited)'s revenue from operations in Q3 FY26 and in Q2 FY26?",
+    "answer": "Q3 FY26: ₹2,873.26 crore; Q2 FY26: ₹2,345.98 crore.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 2873.26,
+    "period_values": [
+      {
+        "period": "Q3 FY26",
+        "value": 2873.26
+      },
+      {
+        "period": "Q2 FY26",
+        "value": 2345.98
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "outcome-of-Board-Meeting-on-Financial-Results-Q3-FY26.json",
+        "page": 5
+      }
+    ],
+    "supporting_pages": [
+      5
+    ],
+    "supporting_chunk_ids": [
+      "65e99a7113da26c2",
+      "ffb5234e18514495"
+    ],
+    "supporting_documents": [
+      "outcome-of-Board-Meeting-on-Financial-Results-Q3-FY26.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "NYKAA_2026_Q3_temporal",
+    "old_supporting_chunk_ids": [
+      "ffb5234e18514495"
+    ],
+    "annotation_corrected": true
+  },
+  {
+    "id": "NYKAA_2025_Q2_temporal_figures",
+    "company": "Nykaa (FSN E-Commerce Ventures Limited)",
+    "company_key": "NYKAA",
+    "year": "2025",
+    "quarter": "Q2",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q2 FY25",
+    "category": "temporal",
+    "subtype": "two_period_figures",
+    "modality": "pdf",
+    "question": "What was Nykaa (FSN E-Commerce Ventures Limited)'s revenue from operations in Q2 FY25 and in Q2 FY24?",
+    "answer": "Q2 FY25: ₹1,874.74 crore; Q2 FY24: ₹1,507.02 crore.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 1874.74,
+    "period_values": [
+      {
+        "period": "Q2 FY25",
+        "value": 1874.74
+      },
+      {
+        "period": "Q2 FY24",
+        "value": 1507.02
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "board-outcome-12-11-2024.json",
+        "page": 5
+      }
+    ],
+    "supporting_pages": [
+      5
+    ],
+    "supporting_chunk_ids": [
+      "89be926e89e2160d"
+    ],
+    "supporting_documents": [
+      "board-outcome-12-11-2024.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "NYKAA_2025_Q2_temporal"
+  },
+  {
+    "id": "NYKAA_2026_Q3_multimodal",
+    "company": "Nykaa (FSN E-Commerce Ventures Limited)",
+    "company_key": "NYKAA",
+    "year": "2026",
+    "quarter": "Q3",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q3 FY26",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Why did Nykaa (FSN E-Commerce Ventures Limited)'s revenue increase quarter-on-quarter in Q3 FY26?",
+    "answer": "prior period: ₹2,345.98 crore; Q3 FY26: ₹2,873.26 crore. Management attributed the increase to broad-based strength in the fashion business, with visits, customer retention and new customer acquisition all trending positively -- new customer acquisition was up YoY.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 2873.26,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 2345.98
+      },
+      {
+        "period": "Q3 FY26",
+        "value": 2873.26
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "outcome-of-Board-Meeting-on-Financial-Results-Q3-FY26.json",
+        "page": 5
+      },
+      {
+        "modality": "audio",
+        "document": "Audio-Recording-Q3-FY-26-Earnings-Call.json",
+        "start_seconds": 1863.0,
+        "end_seconds": 2021.0
+      }
+    ],
+    "supporting_pages": [
+      5
+    ],
+    "supporting_chunk_ids": [
+      "ffb5234e18514495",
+      "f4332362f6d429fa"
+    ],
+    "supporting_documents": [
+      "outcome-of-Board-Meeting-on-Financial-Results-Q3-FY26.json",
+      "Audio-Recording-Q3-FY-26-Earnings-Call.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 1863.0,
+        "end": 2021.0
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "NYKAA_2026_Q3_multimodal"
+  },
+  {
+    "id": "NYKAA_2025_Q3_multimodal",
+    "company": "Nykaa (FSN E-Commerce Ventures Limited)",
+    "company_key": "NYKAA",
+    "year": "2025",
+    "quarter": "Q3",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q3 FY25",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Why did Nykaa (FSN E-Commerce Ventures Limited)'s revenue increase quarter-on-quarter in Q3 FY25?",
+    "answer": "prior period: ₹1,874.74 crore; Q3 FY25: ₹2,267.21 crore. Management attributed the increase to online revenue growth (in line with the trailing three-year CAGR) and YoY EBITDA growth, driven by healthy gross profit growth alongside continued marketing investment.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 2267.21,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 1874.74
+      },
+      {
+        "period": "Q3 FY25",
+        "value": 2267.21
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Outcome-of-Board-Meeting-on-Financial-Results-Q3-FY25.json",
+        "page": 5
+      },
+      {
+        "modality": "audio",
+        "document": "Q3-FY25-Earnings-Call-Audio-Recording.json",
+        "start_seconds": 1923.7,
+        "end_seconds": 2061.2
+      }
+    ],
+    "supporting_pages": [
+      5
+    ],
+    "supporting_chunk_ids": [
+      "c5bbddaf2280c902",
+      "4d7330466a79a311"
+    ],
+    "supporting_documents": [
+      "Outcome-of-Board-Meeting-on-Financial-Results-Q3-FY25.json",
+      "Q3-FY25-Earnings-Call-Audio-Recording.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 1923.7,
+        "end": 2061.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "NYKAA_2025_Q3_multimodal"
+  },
+  {
+    "id": "Tata_Consumer_Products_2025_Q2_risk_guidance",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2025",
+    "quarter": "Q2",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q2 FY25",
+    "category": "risk_guidance",
+    "subtype": "guidance",
+    "modality": "audio",
+    "question": "What forward-looking commentary did Tata Consumer Products' management give in Q2 FY25?",
+    "answer": "Management highlighted continued strong international performance (7% revenue growth, 5% constant currency) with significantly improved profitability led by the UK, and 15% organic growth in its newer growth businesses.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "Q2FY25 Investor Call Recording.json",
+        "start_seconds": 146.5,
+        "end_seconds": 312.2
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "fc976a0da0d14ef0"
+    ],
+    "supporting_documents": [
+      "Q2FY25 Investor Call Recording.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 146.5,
+        "end": 312.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Tata_Consumer_Products_2025_Q2_risk_guidance"
+  },
+  {
+    "id": "lookup_TataConsumerProducts_2026_Q2_5",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2026",
+    "quarter": "Q2",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q2 FY26",
+    "category": "financial_metric",
+    "subtype": "single_value_lookup",
+    "modality": "pdf",
+    "question": "What was Tata Consumer Products Limited's revenue from operations in Q2 FY26 on a consolidated basis?",
+    "answer": "₹4,965.90 crore in Q2 FY26.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 4965.9,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Q2_FY26_Group_Sebi_Results.json",
+        "page": 5
+      }
+    ],
+    "supporting_pages": [
+      5
+    ],
+    "supporting_chunk_ids": [
+      "a2eda4152b581c9c"
+    ],
+    "supporting_documents": [
+      "Q2_FY26_Group_Sebi_Results.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Tata_Consumer_Products_2026_Q2_financial_metric"
+  },
+  {
+    "id": "lookup_TataConsumerProducts_2025_Q3_6",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2025",
+    "quarter": "Q3",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q3 FY25",
+    "category": "financial_metric",
+    "subtype": "single_value_lookup",
+    "modality": "pdf",
+    "question": "What was Tata Consumer Products Limited's revenue from operations in Q3 FY25 on a consolidated basis?",
+    "answer": "₹4,443.56 crore in Q3 FY25.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 4443.56,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Consolidated_Results_dec 2024_signed.json",
+        "page": 5
+      }
+    ],
+    "supporting_pages": [
+      5
+    ],
+    "supporting_chunk_ids": [
+      "1df6ef5b6d0e46eb"
+    ],
+    "supporting_documents": [
+      "Consolidated_Results_dec 2024_signed.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Tata_Consumer_Products_2025_Q3_financial_metric"
+  },
+  {
+    "id": "Tata_Consumer_Products_2026_Q1_temporal_figures",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2026",
+    "quarter": "Q1",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q1 FY26",
+    "category": "temporal",
+    "subtype": "two_period_figures",
+    "modality": "pdf",
+    "question": "What was Tata Consumer Products Limited's revenue from operations in Q1 FY26 and in Q4 FY25?",
+    "answer": "Q1 FY26: ₹4,778.91 crore; Q4 FY25: ₹4,608.22 crore.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 4778.91,
+    "period_values": [
+      {
+        "period": "Q1 FY26",
+        "value": 4778.91
+      },
+      {
+        "period": "Q4 FY25",
+        "value": 4608.22
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Group_Sebi_Results_June'25.json",
+        "page": 5
+      }
+    ],
+    "supporting_pages": [
+      5
+    ],
+    "supporting_chunk_ids": [
+      "931b784aee847192"
+    ],
+    "supporting_documents": [
+      "Group_Sebi_Results_June'25.pdf"
+    ],
+    "supporting_timestamps": null,
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Tata_Consumer_Products_2026_Q1_temporal"
+  },
+  {
+    "id": "confirm_Tata_Consumer_Products_2026_Q2",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2026",
+    "quarter": "Q2",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q2 FY26",
+    "category": "advanced_reasoning",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Tata Consumer Products Limited's revenue grew 3.9% quarter-on-quarter in Q2 FY26 according to its filing. Does management's commentary on the earnings call corroborate this, and if so, how?",
+    "answer": "preceding quarter: ₹4,778.91 crore; Q2 FY26: ₹4,965.90 crore. Management attributed the increase to broad-based portfolio strength: value-added salts up, Sampann up, Ready-to-Drink back to growth volume, net revenue), and Tata Copper Plus up.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 4965.9,
+    "period_values": [
+      {
+        "period": "preceding quarter",
+        "value": 4778.91
+      },
+      {
+        "period": "Q2 FY26",
+        "value": 4965.9
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Q2_FY26_Group_Sebi_Results.json",
+        "page": 5
+      },
+      {
+        "modality": "pdf",
+        "document": "Q2_FY26_Group_Sebi_Results.json",
+        "page": 5
+      },
+      {
+        "modality": "audio",
+        "document": "Q2FY26 _Call_Recording.json",
+        "start_seconds": 471.4,
+        "end_seconds": 633.2
+      }
+    ],
+    "supporting_pages": [
+      5,
+      5
+    ],
+    "supporting_chunk_ids": [
+      "a2eda4152b581c9c",
+      "a2eda4152b581c9c",
+      "fb82ceca1221c891"
+    ],
+    "supporting_documents": [
+      "Q2_FY26_Group_Sebi_Results.json",
+      "Q2_FY26_Group_Sebi_Results.json",
+      "Q2FY26 _Call_Recording.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 471.4,
+        "end": 633.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "confirm_Tata_Consumer_Products_2026_Q2"
+  },
+  {
+    "id": "tension_Tata_Consumer_Products_2024_Q1",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2024",
+    "quarter": "Q1",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q1 FY24",
+    "category": "advanced_reasoning",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Tata Consumer Products Limited's revenue grew 3.4% quarter-on-quarter in Q1 FY24, yet management flagged a risk or challenge on the same call. What was it, and is it consistent with the quarter's growth?",
+    "answer": "preceding quarter: ₹3,618.73 crore; Q1 FY24: ₹3,741.21 crore. Management described cautious optimism on improving demand trends in core categories (rural and north India recovering), while flagging that trends remain below pre-COVID levels and are dependent on the monsoon/El Nino outlook.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 3741.21,
+    "period_values": [
+      {
+        "period": "preceding quarter",
+        "value": 3618.73
+      },
+      {
+        "period": "Q1 FY24",
+        "value": 3741.21
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "consolidated-results-June 2023_signed.json",
+        "page": 8
+      },
+      {
+        "modality": "audio",
+        "document": "tcpl_Q1FY24_call_recording.json",
+        "start_seconds": 954.4,
+        "end_seconds": 1095.6
+      }
+    ],
+    "supporting_pages": [
+      8
+    ],
+    "supporting_chunk_ids": [
+      "829af723960d5e4b",
+      "6e7ff16670bc1eb5"
+    ],
+    "supporting_documents": [
+      "consolidated-results-June 2023_signed.json",
+      "tcpl_Q1FY24_call_recording.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 954.4,
+        "end": 1095.6
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "tension_Tata_Consumer_Products_2024_Q1"
+  },
+  {
+    "id": "Tata_Consumer_Products_2026_Q2_multimodal",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2026",
+    "quarter": "Q2",
+    "fiscal_year": "FY26",
+    "fiscal_period": "Q2 FY26",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Why did Tata Consumer Products Limited's revenue increase quarter-on-quarter in Q2 FY26?",
+    "answer": "prior period: ₹4,778.91 crore; Q2 FY26: ₹4,965.90 crore. Management attributed the increase to broad-based portfolio strength: value-added salts up, Sampann up, Ready-to-Drink back to growth volume, net revenue), and Tata Copper Plus up.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 4965.9,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 4778.91
+      },
+      {
+        "period": "Q2 FY26",
+        "value": 4965.9
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Q2_FY26_Group_Sebi_Results.json",
+        "page": 5
+      },
+      {
+        "modality": "audio",
+        "document": "Q2FY26 _Call_Recording.json",
+        "start_seconds": 471.4,
+        "end_seconds": 633.2
+      }
+    ],
+    "supporting_pages": [
+      5
+    ],
+    "supporting_chunk_ids": [
+      "a2eda4152b581c9c",
+      "fb82ceca1221c891"
+    ],
+    "supporting_documents": [
+      "Q2_FY26_Group_Sebi_Results.json",
+      "Q2FY26 _Call_Recording.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 471.4,
+        "end": 633.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Tata_Consumer_Products_2026_Q2_multimodal"
+  },
+  {
+    "id": "Tata_Consumer_Products_2025_Q3_multimodal",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2025",
+    "quarter": "Q3",
+    "fiscal_year": "FY25",
+    "fiscal_period": "Q3 FY25",
+    "category": "multimodal_explanation",
+    "subtype": "figures_plus_explanation",
+    "modality": "pdf+audio",
+    "question": "Why did Tata Consumer Products Limited's revenue increase year-on-year in Q3 FY25?",
+    "answer": "prior period: ₹4,214.45 crore; Q3 FY25: ₹4,443.56 crore. Management attributed the year-on-year increase to a rebound in the US business (coffee revenue +, tea +, share trending up) after prior pressure, a Canada recovery post packaging-transition hiccups (+, and growth in specialty tea.",
+    "metric": "Revenue from operations",
+    "statement_type": "consolidated",
+    "unit": "₹ crore",
+    "value": 4443.56,
+    "period_values": [
+      {
+        "period": "prior period",
+        "value": 4214.45
+      },
+      {
+        "period": "Q3 FY25",
+        "value": 4443.56
+      }
+    ],
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "pdf",
+        "document": "Consolidated_Results_dec 2024_signed.json",
+        "page": 5
+      },
+      {
+        "modality": "audio",
+        "document": "Tata Consumer_Q3FY25 Investor Call Recording.json",
+        "start_seconds": 789.6,
+        "end_seconds": 951.5
+      }
+    ],
+    "supporting_pages": [
+      5
+    ],
+    "supporting_chunk_ids": [
+      "1df6ef5b6d0e46eb",
+      "9c81f435a259891d"
+    ],
+    "supporting_documents": [
+      "Consolidated_Results_dec 2024_signed.json",
+      "Tata Consumer_Q3FY25 Investor Call Recording.json"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 789.6,
+        "end": 951.5
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Tata_Consumer_Products_2025_Q3_multimodal"
+  },
+  {
+    "id": "Credit_Access_Grameen_2024_Q1_business_strategy",
+    "company": "CreditAccess Grameen Limited",
+    "company_key": "Credit Access Grameen",
+    "year": "2024",
+    "quarter": "Q1",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q1 FY24",
+    "category": "business_strategy",
+    "subtype": null,
+    "modality": "audio",
+    "question": "What product launches or new initiatives did CreditAccess Grameen Limited highlight in Q1 FY24?",
+    "answer": "Management highlighted its liability diversification strategy, with 39% of Q1 FY24 drawdowns and 25% of sanctions in hand sourced from foreign lenders, aimed at extending funding tenure and improving asset-liability matching.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "CreditAccess-Grameen_Earnings-Call-Audio_Q1-FY-2023-24.json",
+        "start_seconds": 311.9,
+        "end_seconds": 495.2
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "f73d469bc09e5e4b",
+      "8a1717fed3d3940e"
+    ],
+    "supporting_documents": [
+      "CreditAccess-Grameen_Earnings-Call-Audio_Q1-FY-2023-24.pdf"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 311.9,
+        "end": 495.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Credit_Access_Grameen_2024_Q1_business_strategy",
+    "marking_scheme": null
+  },
+  {
+    "id": "Credit_Access_Grameen_2024_Q2_risk_guidance",
+    "company": "CreditAccess Grameen Limited",
+    "company_key": "Credit Access Grameen",
+    "year": "2024",
+    "quarter": "Q2",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q2 FY24",
+    "category": "risk_guidance",
+    "subtype": "guidance",
+    "modality": "audio",
+    "question": "What did management explain about regional loan-book maturity differences in Q2 FY24?",
+    "answer": "The retrieved segment is an analyst question about targets for growing the Tamil Nadu/Maharashtra loan book to Karnataka's level; management's response notes Karnataka's branches are older and more mature, explaining its higher book size.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "CreditAccess-Grameen_Earnings-Call-Audio_Q2-FY2023-24.json",
+        "start_seconds": 2183.6,
+        "end_seconds": 2328.9
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "a7a5a300ba4a85f6"
+    ],
+    "supporting_documents": [
+      "CreditAccess-Grameen_Earnings-Call-Audio_Q2-FY2023-24.pdf"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 2183.6,
+        "end": 2328.9
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": "Automated transcript retrieval for this quarter surfaced a chunk that leans analyst-question/boilerplate rather than a clean management statement; treat this excerpt as a weaker match and verify against the source audio.",
+    "recommended_for_eval": false,
+    "derived_from": "Credit_Access_Grameen_2024_Q2_risk_guidance",
+    "marking_scheme": null
+  },
+  {
+    "id": "InfoEdge_2024_Q1_business_strategy",
+    "company": "Info Edge (India) Limited",
+    "company_key": "InfoEdge",
+    "year": "2024",
+    "quarter": "Q1",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q1 FY24",
+    "category": "business_strategy",
+    "subtype": null,
+    "modality": "audio",
+    "question": "What product launches or new initiatives did Info Edge (India) Limited highlight in Q1 FY24?",
+    "answer": "Management highlighted recent acquisitions (IAM Jobs, Zwayam, HiRist, Selectt) as new growth opportunities, framed as long-term (5-10 year) bets rather than near-term drivers.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "InfoEdge-Earnings-11aug23.json",
+        "start_seconds": 3482.2,
+        "end_seconds": 3629.2
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "57eb7f824eafeef3"
+    ],
+    "supporting_documents": [
+      "InfoEdge-Earnings-11aug23.pdf"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 3482.2,
+        "end": 3629.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "InfoEdge_2024_Q1_business_strategy",
+    "marking_scheme": null
+  },
+  {
+    "id": "InfoEdge_2024_Q2_risk_guidance",
+    "company": "Info Edge (India) Limited",
+    "company_key": "InfoEdge",
+    "year": "2024",
+    "quarter": "Q2",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q2 FY24",
+    "category": "risk_guidance",
+    "subtype": "guidance",
+    "modality": "audio",
+    "question": "What outlook did management share for Info Edge (India) Limited during the Q2 FY24 earnings call?",
+    "answer": "Management noted the company is working on new initiatives while acknowledging intense competition in its markets.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "InfoEdge-Earnings-07nov23.json",
+        "start_seconds": 2087.1,
+        "end_seconds": 2214.3
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "8287321a4ee0fc5b"
+    ],
+    "supporting_documents": [
+      "InfoEdge-Earnings-07nov23.pdf"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 2087.1,
+        "end": 2214.3
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "InfoEdge_2024_Q2_risk_guidance",
+    "marking_scheme": null
+  },
+  {
+    "id": "Jindal_Stainless_Limited_2024_Q1_risk_guidance",
+    "company": "Jindal Stainless Limited",
+    "company_key": "Jindal Stainless Limited",
+    "year": "2024",
+    "quarter": "Q1",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q1 FY24",
+    "category": "risk_guidance",
+    "subtype": "risk",
+    "modality": "audio",
+    "question": "What challenges did management discuss during the Q1 FY24 earnings call?",
+    "answer": "Management noted higher seasonal consumer-segment demand supported volume growth, while a European market slowdown was offset by continuing to develop new export markets and products, mainly targeting the US and Europe.",
+    "metric": null,
+    "statement_type": "standalone",
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "Audio-Recording-Q1FY24.json",
+        "start_seconds": 138.9,
+        "end_seconds": 301.9
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "245b803aedc83fd2"
+    ],
+    "supporting_documents": [
+      "Audio-Recording-Q1FY24.pdf"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 138.9,
+        "end": 301.9
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": "Jindal Stainless's figures throughout this dataset are standalone (parent-entity-only), not consolidated -- the consolidated quarterly P&L is not reliably/consistently extractable from the processed filings. This differs from the general dataset convention of using consolidated figures.",
+    "recommended_for_eval": false,
+    "derived_from": "Jindal_Stainless_Limited_2024_Q1_risk_guidance",
+    "marking_scheme": null
+  },
+  {
+    "id": "NYKAA_2024_Q1_business_strategy",
+    "company": "Nykaa (FSN E-Commerce Ventures Limited)",
+    "company_key": "NYKAA",
+    "year": "2024",
+    "quarter": "Q1",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q1 FY24",
+    "category": "business_strategy",
+    "subtype": null,
+    "modality": "audio",
+    "question": "What product launches or new initiatives did Nykaa (FSN E-Commerce Ventures Limited) highlight in Q1 FY24?",
+    "answer": "Management highlighted Nykaa's continued role as the exclusive partner for luxury brand launches in India, including the Elemis skincare brand.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "Audio-Recording-Q1FY24-Earnings-Call.json",
+        "start_seconds": 1024.2,
+        "end_seconds": 1158.8
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "f78eeccbfd11a678"
+    ],
+    "supporting_documents": [
+      "Audio-Recording-Q1FY24-Earnings-Call.pdf"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 1024.2,
+        "end": 1158.8
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "NYKAA_2024_Q1_business_strategy",
+    "marking_scheme": null
+  },
+  {
+    "id": "Tata_Consumer_Products_2024_Q2_business_strategy",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2024",
+    "quarter": "Q2",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q2 FY24",
+    "category": "business_strategy",
+    "subtype": null,
+    "modality": "audio",
+    "question": "What expansion or investment plans did Tata Consumer Products Limited discuss in Q2 FY24?",
+    "answer": "Management noted tea market share has stabilized and should recover further via distribution expansion and brand investment, while salt price increases -- where Tata was an early mover -- have since been matched by competitors.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "tcpl_Q2FY24_call_recording.json",
+        "start_seconds": 454.2,
+        "end_seconds": 583.2
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "2ffa82f21e95f76b"
+    ],
+    "supporting_documents": [
+      "tcpl_Q2FY24_call_recording.pdf"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 454.2,
+        "end": 583.2
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Tata_Consumer_Products_2024_Q2_business_strategy",
+    "marking_scheme": null
+  },
+  {
+    "id": "Tata_Consumer_Products_2024_Q1_risk_guidance",
+    "company": "Tata Consumer Products Limited",
+    "company_key": "Tata Consumer Products",
+    "year": "2024",
+    "quarter": "Q1",
+    "fiscal_year": "FY24",
+    "fiscal_period": "Q1 FY24",
+    "category": "risk_guidance",
+    "subtype": "risk",
+    "modality": "audio",
+    "question": "What challenges did management discuss during the Q1 FY24 earnings call?",
+    "answer": "Management described cautious optimism on improving demand trends in core categories (rural and north India recovering), while flagging that trends remain below pre-COVID levels and are dependent on the monsoon/El Nino outlook.",
+    "metric": null,
+    "statement_type": null,
+    "unit": null,
+    "value": null,
+    "period_values": null,
+    "expected_answer": null,
+    "expected_difference": null,
+    "direction": null,
+    "source": [
+      {
+        "modality": "audio",
+        "document": "tcpl_Q1FY24_call_recording.json",
+        "start_seconds": 954.4,
+        "end_seconds": 1095.6
+      }
+    ],
+    "supporting_pages": [],
+    "supporting_chunk_ids": [
+      "6e7ff16670bc1eb5"
+    ],
+    "supporting_documents": [
+      "tcpl_Q1FY24_call_recording.pdf"
+    ],
+    "supporting_timestamps": [
+      {
+        "start": 954.4,
+        "end": 1095.6
+      }
+    ],
+    "ambiguous_question": false,
+    "ground_truth_issue": false,
+    "ground_truth_issue_note": null,
+    "data_quality_flag": null,
+    "recommended_for_eval": true,
+    "derived_from": "Tata_Consumer_Products_2024_Q1_risk_guidance",
+    "marking_scheme": null
+  }
+]
